@@ -1,0 +1,12 @@
+body { //element
+    background:blue;
+    color:white;
+    text-align:center;
+    margin: 0 auto;
+}
+
+.centred { //class
+    margin-left: auto;
+    margin-right: auto;
+    display:block;
+}
